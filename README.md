@@ -6,5 +6,3 @@ data to excel. We can put as many sensors as we want. this project can be expand
 
 #
 
-![image](https://user-images.githubusercontent.com/65060007/129155731-cfe65818-0deb-4552-a423-f5c21ce86033.png)
-
